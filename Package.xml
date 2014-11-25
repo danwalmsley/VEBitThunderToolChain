@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GccToolChainPackage">
+  <Name>BT Toolchain</Name>
+  <Version>0.6.2.0</Version>
+  <Description>BitThunder Toolchain based on GCC 4.9.0 and Make for Win32</Description>
+  <RepoUri>https://github.com/danwalmsley/VEBitThunderToolChain.git</RepoUri>
+  <IncludePaths>
+    <string>0.6.2\lib\gcc\arm-eabi-bt\4.9.0\include</string>
+  </IncludePaths>
+  <WorkingDirectory>0.6.2\bin</WorkingDirectory>
+</Package>
