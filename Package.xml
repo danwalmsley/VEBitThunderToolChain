@@ -6,6 +6,7 @@
   <RepoUri>https://github.com/danwalmsley/VEBitThunderToolChain.git</RepoUri>
   <IncludePaths>
     <string>0.6.2\lib\gcc\arm-eabi-bt\4.9.0\include</string>
+    <string>0.6.2\arm-eabi-bt\include</string>
   </IncludePaths>
   <WorkingDirectory>0.6.2\bin</WorkingDirectory>
 </Package>
